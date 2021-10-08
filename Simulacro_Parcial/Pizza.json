@@ -1,0 +1,34 @@
+[
+    {
+        "id": 93,
+        "sabor": "Muza",
+        "precio": "750",
+        "tipo": "Piedra",
+        "cantidad": 14,
+        "image": ""
+    },
+    {
+        "id": 74,
+        "sabor": "Fugazzeta",
+        "precio": "500",
+        "tipo": "Piedra",
+        "cantidad": 16,
+        "image": ""
+    },
+    {
+        "id": 63,
+        "sabor": "Calabreza",
+        "precio": "1400",
+        "tipo": "Molde",
+        "cantidad": 4,
+        "image": ""
+    },
+    {
+        "id": 53,
+        "sabor": "Napo",
+        "precio": 1100,
+        "tipo": "Piedra",
+        "cantidad": 4,
+        "image": ".\/ImagenesDeLaVenta\/Piedra+Napo+.jpg"
+    }
+]
